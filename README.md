@@ -9,8 +9,12 @@
 
 An advanced, end-to-end **Business Intelligence (BI) application** built to transform raw e-commerce data into actionable executive insights. This interactive Streamlit dashboard provides real-time simulation, KPI tracking, and financial modeling to drive data-backed strategic decisions.
 
----
+<img width="586" height="462" alt="Analysis" src="https://github.com/user-attachments/assets/c78d3f6c-27ae-4cc4-b6ab-0f1196d3d5a5" />
+<img width="636" height="372" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/9af7f707-40df-43ae-bebe-1efc9d345ca8" />
 
+---
+ In a competitive e-commerce landscape, delivery performance and customer satisfaction are the primary drivers of retention. This project analyzes **100,000+ Brazilian orders** to identify logistics bottlenecks, measure the impact of shipping delays on review scores, and provide actionable insights for operational improvement.
+ 
 ## 🎯 1. Project Scope
 The primary objective of this project is to bridge the gap between complex data sets and executive decision-making. The application serves as a **Strategic Growth Simulator** for e-commerce platforms, enabling stakeholders to:
 * Monitor baseline revenue and profit margins in real-time.
@@ -54,6 +58,15 @@ This analytics hub provides immediate ROI value by:
 * **Reducing Time-to-Insight:** Stakeholders can test "what-if" scenarios in seconds rather than waiting for static weekly reports.
 * **Risk Mitigation:** Visually identifying the exact point where customer churn negates marketing spend prevents costly strategic errors.
 * **Data Democratization:** The highly intuitive UI allows non-technical users to engage with complex predictive models effortlessly.
+<img width="414" height="162" alt="insights" src="https://github.com/user-attachments/assets/32767f9b-e912-410c-b6fa-a0f6ebe63a80" />
+
+## Finalizing the Narrative
+Based on this analysis, the company is risking in revenue due to logistics failures in the Northern states.
+
+### Strategic Action Plan:
+**Carrier Diversification:** I recommend a 3-month pilot program with regional third-party logistics (3PL) carriers in identified "High-Delay" hubs to bypass central sorting bottlenecks. NPS Recovery: By reducing regional delays by even 25%, simulation data suggests we can improve the average regional NPS from 3.2 to 4.1.
+
+**Predictive Estimated Delivery Date (EDD):** Implement a dynamic EDD model that adds a 2-day buffer for Northern regions to manage customer expectations and preserve review scores.
 
 ---
 
@@ -63,3 +76,6 @@ To run this application on your local machine:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+
+
+**THANKS!**
